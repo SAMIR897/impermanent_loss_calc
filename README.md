@@ -1,6 +1,6 @@
 # 📉 Impermanent Loss Calculator
 
-A Rust CLI tool that calculates impermanent loss for liquidity providers in AMM (Automated Market Maker) pools.
+An advanced DeFi calculator designed to help Liquidity Providers (LPs) estimate potential impermanent loss and overall profitability within AMMs. By simulating price volatility and fee accrual, it provides clear visualizations of risk-to-reward ratios, enabling users to make data-driven decisions when providing liquidity to decentralized exchanges and protocols.
 
 ## Features
 
